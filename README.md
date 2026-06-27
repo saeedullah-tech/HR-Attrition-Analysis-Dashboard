@@ -200,8 +200,5 @@ Connect With Me
 Saeed Ullah
 
 📧 Email: Saeedtech990@Gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/your-profile/
-🌐 Portfolio: https://your-portfolio.com
-📂 GitHub: https://github.com/saeedullah-tech
 
 ⭐ If you found this project helpful, consider giving it a star to support my work.
