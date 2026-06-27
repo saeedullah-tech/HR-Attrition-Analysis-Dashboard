@@ -21,7 +21,7 @@ The dashboard enables HR professionals and business leaders to quickly identify 
 
 Dashboard Preview
 Main Dashboard
-<p align="center"> <img src="Attrition(1).png" width="100%"> </p>
+<p align="center"> 📄 **[View the full dashboard (PDF)](./https://github.com/saeedullah-tech/HR-Attrition-Analysis-Dashboard/blob/f4e503a5d62d258e5be9b49ffbfdb792782f09b5/HR%20Attrition.pdf)** </p>
 Executive Summary
 <p align="center"> <img src="Summary.png" width="100%"> </p>
 Business Problem
