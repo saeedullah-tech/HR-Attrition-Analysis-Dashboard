@@ -27,7 +27,7 @@ Main Dashboard
 
 </p>
 In Video
-<p align="center"> [<img src="Summary.png" width="100%">](https://github.com/saeedullah-tech/HR-Attrition-Analysis-Dashboard/blob/f4e503a5d62d258e5be9b49ffbfdb792782f09b5/HR%20Attrition.mp4) </p>
+https://github.com/saeedullah-tech/HR-Attrition-Analysis-Dashboard/blob/f4e503a5d62d258e5be9b49ffbfdb792782f09b5/HR%20Attrition.mp4
 Business Problem
 
 Employee turnover directly affects:
