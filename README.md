@@ -20,7 +20,6 @@ Years at the company
 The dashboard enables HR professionals and business leaders to quickly identify trends and make informed retention decisions.
 
 Dashboard Preview
-Main Dashboard
 <p align="center">
 
 📄 **[View the full dashboard (PDF)](https://github.com/saeedullah-tech/HR-Attrition-Analysis-Dashboard/blob/f4e503a5d62d258e5be9b49ffbfdb792782f09b5/HR%20Attrition.pdf)**
@@ -29,9 +28,6 @@ Main Dashboard
 In Video
 
 ![Image](https://github.com/saeedullah-tech/HR-Attrition-Analysis-Dashboard/blob/a96c96a22fb2f2c86b7bee18da18f5d6faaee19d/HRAttrition-ezgif.com-video-to-gif-converter.gif)
-
-![Image](https://github.com/saeedullah-tech/HR-Attrition-Analysis-Dashboard/blob/3b143cdb5267efbea978cfb791a94cbf39a58aba/HR%20Attrition.mp4)
-
 
 Business Problem
 
